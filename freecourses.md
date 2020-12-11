@@ -8,7 +8,7 @@
 - [sql lite database for android](https://www.youtube.com/watch?v=312RhjfetP8)
 - [dynamic programming made easy](https://www.freecodecamp.org/news/dynamic-programming-made-easy/)
 - [intro to data structures](https://www.freecodecamp.org/news/learn-all-about-data-structures-used-in-computer-science/)
-- 
+- [top DP interview questions](https://www.geeksforgeeks.org/top-20-dynamic-programming-interview-questions/?ref=rp)
 
 ### c++
 
