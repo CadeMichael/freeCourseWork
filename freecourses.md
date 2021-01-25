@@ -27,7 +27,7 @@
 ### websites
 
 - [edx](https://www.edx.org). this site provides lectures from uni's all around the world on a wide variety of STEM topics
-- [hackr](Hackr.io). people can post their online lessons/ lectures here and then depending on their votes by users they will be recomended over other lectures. It serves as a filter for the most usefull free courses/ lessons.
+- [hackr](https://www.Hackr.io). people can post their online lessons/ lectures here and then depending on their votes by users they will be recomended over other lectures. It serves as a filter for the most usefull free courses/ lessons.
 
 ### online classes from coursera and edx
 
@@ -35,3 +35,10 @@
 - [web app tech and Django](https://www.coursera.org/learn/django-database-web-apps?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-kUMAJlDU7HE3FV5H.chhTA&siteID=SAyYsTvLiGQ-kUMAJlDU7HE3FV5H.chhTA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
 - [intro to networking](https://www.edx.org/course/introduction-to-networking?source=aw&awc=6798_1607667265_6f2efd6bf97960ddfffb0b2303b0e03e&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F)
 
+Programming Languages That I want general competence in
+| Language | why / uses |
+| --- | --- |
+| **Python** | the most versatile language. Almost like duct tape of programming languages. Might not be the best for a given task but it can get it done |
+| **Dart** | Almost likes Googles version of java. very good for mobile development and as the language used with flutter it is a must for mobile dev |
+| **C++** | one of the building blocks of modern computing. Always need to know the basics and the building blocks of other languages and operating systems (about as low level as I want to go) |
+| **Go** | almost like the wheel re-invented. Want to get more familiar with it and hopefully ride the wave of adoption that I believe to be coming |
