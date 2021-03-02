@@ -23,6 +23,7 @@
 - [intro to alg trading](https://www.freecodecamp.org/news/algorithmic-trading-in-python/)
 - [sql databases with python](https://www.freecodecamp.org/news/connect-python-with-sql/)
 - [intro to python](https://www.freecodecamp.org/news/intermediate-python-course/)
+- [pytorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 
 ### websites
 
